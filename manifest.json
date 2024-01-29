@@ -1,0 +1,38 @@
+{
+  "background_color": "#ffffff",
+  "description": "Tu Plataforma para Partidos de Fútbol sin Complicaciones",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Chamuscapp",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "Chamuscapp",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://static.wixstatic.com/media/5f0694_51d174466c96424489de8fe2d53033ad%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/5f0694_51d174466c96424489de8fe2d53033ad%7Emv2.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/5f0694_51d174466c96424489de8fe2d53033ad%7Emv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/5f0694_51d174466c96424489de8fe2d53033ad%7Emv2.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/5f0694_51d174466c96424489de8fe2d53033ad%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/5f0694_51d174466c96424489de8fe2d53033ad%7Emv2.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    }
+  ],
+  "id": "chamuscapp",
+  "categories": [
+    "entertainment",
+    "fitness",
+    "games",
+    "health",
+    "lifestyle",
+    "social"
+  ]
+}
